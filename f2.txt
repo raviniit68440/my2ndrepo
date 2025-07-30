@@ -1,0 +1,40 @@
+
+ravin@DESKTOP-MQ333NB MINGW64 ~/practice/GIT_PRACTICE/my2ndrepo (main)
+$ git log
+commit 23bc51960294ac1053d4cb743da1f477d2e068aa (HEAD -> main, origin/main, origin/HEAD)
+Author: Ravi <raviniit68440@gmail.com>
+Date:   Wed Jul 30 20:40:01 2025 +0530
+
+    Revert "f2 file updated"
+
+    This reverts commit f190d49c2e8cff7a69c9903500dfdb194edeaf08.
+
+commit f190d49c2e8cff7a69c9903500dfdb194edeaf08
+Author: Ravi <raviniit68440@gmail.com>
+Date:   Wed Jul 30 20:38:11 2025 +0530
+
+    f2 file updated
+
+commit 18dc2574bcfb237c97a8b8c92b6953b415dd976f
+Author: Ravi <raviniit68440@gmail.com>
+Date:   Wed Jul 30 20:34:42 2025 +0530
+
+    f1 file removed
+
+commit 43fd6c3e913616df43968a1692bbcde819c409e2
+Author: Ravi <raviniit68440@gmail.com>
+Date:   Wed Jul 30 20:32:17 2025 +0530
+
+    file addedd
+
+commit 7668352c1200ff8cde5bac790e19fd82241b5e73
+Author: Ravi <raviniit68440@gmail.com>
+Date:   Wed Jul 30 19:57:47 2025 +0530
+
+    my second commit
+
+commit 4920e3b00034b14ca1385b0a221d8cea8286b90c
+Author: Ravi <raviniit68440@gmail.com>
+Date:   Wed Jul 30 19:55:58 2025 +0530
+
+    first commit
